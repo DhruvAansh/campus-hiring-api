@@ -1,0 +1,6 @@
+*.log
+target/
+.idea/
+.settings/
+
+.class
